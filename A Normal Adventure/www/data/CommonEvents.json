@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":101,"indent":0,"parameters":["Actor3",7,0,2]},{"code":401,"indent":0,"parameters":["好好喝！"]},{"code":212,"indent":0,"parameters":[-1,118,true]},{"code":101,"indent":0,"parameters":["Actor3",7,0,2]},{"code":401,"indent":0,"parameters":["我感觉我好饱啊……嗝！"]},{"code":250,"indent":0,"parameters":[{"name":"Item2","volume":90,"pitch":100,"pan":0}]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["获得状态：饱了\\I[6]"]},{"code":0,"indent":0,"parameters":[]}],"name":"饱了","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":2,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
